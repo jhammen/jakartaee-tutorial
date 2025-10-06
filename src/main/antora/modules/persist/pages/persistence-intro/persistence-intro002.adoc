@@ -17,7 +17,7 @@ An entity class must follow these requirements.
 The class may have other constructors.
 
 * The class must not be declared `final`.
-No methods or persistent instance variables must be declared `final`.
+No methods or persistent instance variables may be declared `final`.
 
 * If an entity instance is passed by value as a detached object, such as through a session bean's remote business interface, the class must implement the `Serializable` interface.
 
