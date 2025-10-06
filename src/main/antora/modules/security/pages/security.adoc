@@ -388,7 +388,7 @@ In the two stores above, however only one store knows about "pete" and that's th
 
 ==== Populating the identity store
 
-In order to use the identity store, we need to put some data in a database. This is done in the same as in <<Securing an Endpoint with Basic Authentication and a Database Identity Store>>.
+In order to use the identity store, we need to put some data in a database. This is done in the same way as in <<Securing an Endpoint with Basic Authentication and a Database Identity Store>>.
 
 ==== Test the application
 
@@ -749,7 +749,7 @@ When multiple identity stores are present, an identity store handler (of type `I
 
 ==== Populating the identity store
 
-In order to use the identity store, we need to put some data in a database. This is done in the same as in <<Securing an Endpoint with Basic Authentication and a Database Identity Store>>.
+In order to use the identity store, we need to put some data in a database. This is done in the same way as in <<Securing an Endpoint with Basic Authentication and a Database Identity Store>>.
 
 NOTE: In the custom identity store defined above and in the database identity store here we both use name "john' and password "secret1".
 
