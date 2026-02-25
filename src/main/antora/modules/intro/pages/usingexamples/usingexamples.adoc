@@ -1,6 +1,6 @@
 = Using the Tutorial Examples
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter tells you everything you need to know to install, build, and run the tutorial examples.
 

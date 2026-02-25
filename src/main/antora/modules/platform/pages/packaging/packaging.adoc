@@ -1,6 +1,6 @@
 = Packaging
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes packaging.
 A Jakarta EE application is packaged into one or more standard units for deployment to any Jakarta EE platform-compliant system.

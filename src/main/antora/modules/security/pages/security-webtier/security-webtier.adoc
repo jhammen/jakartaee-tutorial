@@ -1,6 +1,6 @@
 = Getting Started Securing Web Applications
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes in greater detail the ways to implement security for Jakarta EE web applications discussed in a general way in xref:security-intro/security-intro.adoc#_securing_containers[Securing Containers]. The detail and examples in this chapter explore these security services as they relate to web components.
 

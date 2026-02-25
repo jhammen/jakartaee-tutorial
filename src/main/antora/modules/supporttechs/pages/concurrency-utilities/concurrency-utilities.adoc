@@ -1,6 +1,6 @@
 = Jakarta Concurrency
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes Jakarta Concurrency spec.
 

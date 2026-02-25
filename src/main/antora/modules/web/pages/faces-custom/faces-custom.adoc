@@ -1,6 +1,6 @@
 = Creating Custom UI Components and Other Custom Objects
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes creating custom components for applications that have additional functionality not provided by standard Jakarta Faces components.
 

@@ -1,6 +1,6 @@
 = Duke's Tutoring Case Study Example
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 The Duke's Tutoring example application is a tracking system for a tutoring center for students.
 Students can be checked in and out and can visit the park.

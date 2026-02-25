@@ -2,7 +2,7 @@
 
 = Preface
 
-include::ROOT:partial$draft.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 == Legal
 
@@ -58,7 +58,7 @@ The command to remove a file is `rm _filename_`.
 
 == Default Paths and File Names
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 The following table describes the default paths and file names that are
 used in this book.

@@ -1,6 +1,6 @@
 = The Resource Adapter Examples
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes two examples that demonstrate how to use resource adapters in Jakarta EE applications and how to implement simple resource adapters.
 

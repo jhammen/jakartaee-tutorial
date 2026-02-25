@@ -1,6 +1,6 @@
 = Jakarta Messaging Examples
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter provides examples that show how to use Jakarta Messaging in various kinds of Jakarta EE applications.
 

@@ -1,6 +1,6 @@
 = Resource Creation
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 A resource is a program object that provides connections to such systems as database servers and messaging systems.
 Jakarta EE components can access a wide variety of resources, including databases, mail sessions, Jakarta Messaging objects, and URLs.

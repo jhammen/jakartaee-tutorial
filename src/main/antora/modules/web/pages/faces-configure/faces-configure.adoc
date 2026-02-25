@@ -1,6 +1,6 @@
 = Configuring Jakarta Faces Applications
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes additional configuration tasks required when you create large and complex applications.
 

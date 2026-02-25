@@ -1,6 +1,6 @@
 = Running the Persistence Examples
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter explains how to use Jakarta Persistence.
 The material here focuses on the source code and settings of three examples.

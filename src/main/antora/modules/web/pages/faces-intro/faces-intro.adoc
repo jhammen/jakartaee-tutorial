@@ -1,6 +1,6 @@
 = Jakarta Faces Technology
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 Jakarta Faces technology is a server-side component framework for building Java technology–based web applications.
 
