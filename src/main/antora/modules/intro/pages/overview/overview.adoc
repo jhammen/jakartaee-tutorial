@@ -1,7 +1,5 @@
 = Overview
 
-include::ROOT:partial$last-updated-v9.adoc[]
-
 This chapter explains what Jakarta EE is, what features it provides, common terms,
 and how Jakarta EE applications are structured.
 
