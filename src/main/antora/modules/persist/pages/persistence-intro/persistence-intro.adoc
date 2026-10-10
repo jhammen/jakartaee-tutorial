@@ -1,6 +1,6 @@
 = Introduction to Jakarta Persistence
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter provides a description of Jakarta Persistence.
 

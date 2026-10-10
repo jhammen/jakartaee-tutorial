@@ -1,6 +1,6 @@
 = Using Asynchronous Method Invocation in Session Beans
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter discusses how to implement asynchronous business methods in session beans and call them from enterprise bean clients.
 

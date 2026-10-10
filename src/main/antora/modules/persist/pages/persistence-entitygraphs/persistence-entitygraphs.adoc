@@ -1,6 +1,6 @@
 = Creating Fetch Plans with Entity Graphs
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter explains how to use entity graphs to create fetch plans for Jakarta Persistence operations and queries.
 

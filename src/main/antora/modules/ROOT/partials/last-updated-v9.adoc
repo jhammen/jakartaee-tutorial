@@ -1,0 +1,4 @@
+[NOTE]
+====
+This section was last updated for Jakarta EE Version 9.1
+====

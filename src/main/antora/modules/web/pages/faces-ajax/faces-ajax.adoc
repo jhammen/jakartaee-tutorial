@@ -1,6 +1,6 @@
 = Using Ajax with Jakarta Faces Technology
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes using Ajax functionality in Jakarta Faces web applications.
 Ajax is an acronym for Asynchronous JavaScript and XML, a group of web technologies that enable creation of dynamic and highly responsive web applications.

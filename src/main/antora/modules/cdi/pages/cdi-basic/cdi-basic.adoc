@@ -1,6 +1,6 @@
 = Introduction to Jakarta Contexts and Dependency Injection
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes Jakarta Contexts and Dependency Injection (CDI) which is one of several Jakarta EE features that help to knit together the web tier and the transactional tier of the Jakarta EE platform.
 

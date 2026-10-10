@@ -1,6 +1,6 @@
 = Jakarta WebSocket
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes Jakarta WebSocket, which provides support for creating WebSocket applications.
 WebSocket is an application protocol that provides full-duplex communications between two peers over the TCP protocol.

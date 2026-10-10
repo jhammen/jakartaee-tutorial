@@ -1,6 +1,6 @@
 == Creating and Initializing a Servlet
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 Use the `@WebServlet` annotation to define a servlet component in a web application.
 This annotation is specified on a class and contains metadata about the servlet being declared.

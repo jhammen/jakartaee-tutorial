@@ -1,6 +1,6 @@
 = Jakarta Expression Language
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter introduces the Expression Language (also referred to as the EL), which provides an important mechanism for enabling the presentation layer (web pages) to communicate with the application logic (managed beans).
 The EL is used by several Jakarta EE technologies, such as Jakarta Faces technology, Jakarta Server Pages technology, and Dependency Injection for Jakarta EE (CDI).

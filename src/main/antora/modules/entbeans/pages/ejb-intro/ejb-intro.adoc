@@ -1,6 +1,6 @@
 = Enterprise Beans
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 Enterprise beans are Jakarta EE components that implement Jakarta Enterprise Beans technology.
 Enterprise beans run in the Enterprise Bean container, a runtime environment within GlassFish Server (see xref:intro:overview/overview.adoc#_container_types[Container Types]).

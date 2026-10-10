@@ -1,6 +1,6 @@
 = Introduction to Facelets
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 The term Facelets refers to the view declaration language for Jakarta Faces technology.
 Facelets is a part of the Jakarta Faces specification and also the preferred presentation technology for building Jakarta Faces technology–based applications.

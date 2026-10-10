@@ -1,6 +1,6 @@
 = Using Jakarta Security
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes the authentication and credential validation functionality provided by Jakarta Security.
 The API also defines a `SecurityContext` access point for programmatic security.

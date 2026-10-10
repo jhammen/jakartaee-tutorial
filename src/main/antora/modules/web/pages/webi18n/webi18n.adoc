@@ -1,6 +1,6 @@
 = Internationalizing and Localizing Web Applications
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 The process of preparing an application to support more than one language and data format is called internationalization.
 Localization is the process of adapting an internationalized application to support a specific region or locale.

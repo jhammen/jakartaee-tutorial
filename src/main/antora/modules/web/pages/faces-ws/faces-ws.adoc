@@ -1,6 +1,6 @@
 = Using WebSockets with Jakarta Faces Technology
 
-include::ROOT:partial$not_updated.adoc[]
+include::ROOT:partial$last-updated-v9.adoc[]
 
 This chapter describes using WebSockets in Jakarta Faces web applications.
 
